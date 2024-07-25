@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "BizBazaar",
+        "description": "Track Taka is an expense tracker application built on React JS, TailwindCSS, IndexedDB, and Firebase...",
+        "image": "https://i.ibb.co/pykZ61g/bizbazaar-web-cover.jpg",
+        "live_link": "https://property-webb.netlify.app/",
+        "source_code": "https://github.com/Armanhossain15/bizbazaar-commercial-web",
+        "technologies": ["React", "Tailwind Css", "Firebase", "Node-Js"]
+    },
+    {
+        "id": "2",
+        "title": "Golden-Crest",
+        "description": "BizBazaar is an online marketplace application built on React JS, TailwindCSS, IndexedDB, and Firebase...",
+        "image": "https://i.ibb.co/xzhs6J2/hossain-arman-project-cover-2.jpg",
+        "live_link": "https://golden-crest.web.app/",
+        "source_code": "https://github.com/Armanhossain15/bizbazaar-commercial-web",
+        "technologies": ["React", "React Router Dom", "Tailwind Css", "Firebase"]
+    }
+]
